@@ -1,2 +1,2 @@
-# Fatigue.jl
-package for fatigue
+# Tester.jl
+package for learning/exploring
